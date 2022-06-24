@@ -2,7 +2,7 @@
 **1)** Calcula los siguientes límites. Redondea la respuesta a su PRIMER número decimal o responde inf en caso de infinito o -inf en caso de menos infinito.
 
     a- lim x->2 de f(x) = 2*x + 1=> 5
-    b- lim x->0+ de f(x) = 1 - 1/x => No existe (limites laterales distintos)
+    b- lim x->0+ de f(x) = 1 - 1/x => -inf
     c- lim k->inf de g(k) = 10 + 1/log(k) =>10
     d- lim h->10 de g(h) = 1/(h-10) => No existe (límites laterales distintos)
     e- lim t->5 de d(t) = 25-t^2 =>0
